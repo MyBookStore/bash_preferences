@@ -1,0 +1,6 @@
+alias infra='cd ~/infra'
+alias ordersservice='cd ~/order_service'
+alias customerservice='cd ~/customer_service'
+alias booksservice='cd ~/books_service'
+alias can_i_go_home='ruby ~/infra/script/can_i_go_home.rb'
+alias online='cd ~/online_store'
